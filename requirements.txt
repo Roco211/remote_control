@@ -1,0 +1,5 @@
+redis~=4.6.0
+numpy~=1.25.2
+Pillow~=10.0.0
+PyAutoGUI~=0.9.54
+opencv-python~=4.8.0.74
